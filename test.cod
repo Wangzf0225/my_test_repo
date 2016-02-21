@@ -1,0 +1,5 @@
+# this is a test code file
+
+main{
+  printf("this is a test code file");
+}
